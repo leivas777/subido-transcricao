@@ -1,0 +1,5 @@
+model,input,output,source,estimated_cost_usd,estimated_usd_per_minute,verified_at,scenario
+google/gemma-4-26b-a4b-it:free,0,0,https://openrouter.ai/google/gemma-4-26b-a4b-it:free,0.0,0.0,2026-10-09,Cenário ilustrativo; não é consumo medido
+google/gemini-2.5-flash-lite,0.1,0.4,https://openrouter.ai/google/gemini-2.5-flash-lite,0.00015,0.00015,2026-10-09,Cenário ilustrativo; não é consumo medido
+openai/gpt-4.1-mini,0.4,1.6,https://openrouter.ai/openai/gpt-4.1-mini,0.0006,0.0006,2026-10-09,Cenário ilustrativo; não é consumo medido
+anthropic/claude-haiku-4.5,1,5,https://openrouter.ai/anthropic/claude-haiku-4.5,0.0018,0.0018,2026-10-09,Cenário ilustrativo; não é consumo medido
